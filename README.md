@@ -31,8 +31,8 @@ sudo apt install linux-headers-$(uname -r)
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/HedgeHawk/realtime-offset.git
-   cd realtime-offset
+   git clone https://github.com/powerpete/crosstime.git
+   cd crosstime
    ```
 
 2. Build the module:
